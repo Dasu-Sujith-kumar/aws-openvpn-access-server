@@ -1,4 +1,4 @@
-# PRIVACY SHIELD: A User-Friendly VPN Client
+# PRIVACY SHIELD: A User-Friendly VPN Client 
 
 This project demonstrates how to deploy a secure, user-accessible VPN using **OpenVPN Access Server** hosted on **AWS EC2**, offering encrypted internet access for remote clients.
 
